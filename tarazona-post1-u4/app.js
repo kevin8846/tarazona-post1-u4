@@ -1,7 +1,7 @@
 // ESTADO
 let tarjetas = [];
 let idContador = 1;
-
+ 
 const generarId = () => idContador++;
  
 // LEER INPUTS
