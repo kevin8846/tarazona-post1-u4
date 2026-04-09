@@ -1,0 +1,7 @@
+body { font-family: Arial; padding: 20px; }
+#galeria { display:flex; gap:10px; flex-wrap:wrap; }
+.tarjeta { border:1px solid #ccc; padding:10px; width:200px; }
+.badge { background:red; color:#fff; padding:2px 6px; }
+.btn-eliminar { margin-top:8px; }
+.oculta { display:none; }
+.btn-filtro.activo { background:red; color:#fff; }
