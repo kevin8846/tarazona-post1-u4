@@ -3,7 +3,7 @@ let tarjetas = [];
 let idContador = 1;
 
 const generarId = () => idContador++;
-
+ 
 // LEER INPUTS
 const leerCampo = (selector) => {
   const campo = document.querySelector(selector);
